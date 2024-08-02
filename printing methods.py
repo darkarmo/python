@@ -1,0 +1,5 @@
+print("Hello world")
+x=input("Enter any input")
+print(x)
+print("x=",x,"(Input)")
+print(f"The input is {x}")
