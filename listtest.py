@@ -20,3 +20,4 @@ y=[1,"hari",3]
 data=int(input("Enter data"))
 y.remove(data)
 print(y)
+#day2
