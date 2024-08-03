@@ -15,7 +15,7 @@ n="y"
 
 print(name)
 '''
-stu="Demo"
+stu="Dummy"
 #until last character in A or a
 while(stu[-1]!="a"):
     stu=input("Write the name of the student")
