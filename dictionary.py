@@ -25,3 +25,8 @@ for i in range(3):
     }
     stu.append(student)
 print(stu)
+
+for student in stu:
+    print(student['name'])
+    print(student['age'])
+    print(student['gender'])
